@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing medical imaging in order to help and detect cancer early.
 - 🌱 I’m currently learning Advanced AI.
 - 💞️ I’m looking to collaborate on medical imaging.
-- 📫 you can reach me by going to my profile.
+- 📫 You can reach me by going to my profile.
 - 😄 Pronouns: She/Her.
 
 <!---
